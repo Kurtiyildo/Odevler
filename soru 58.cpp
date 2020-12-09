@@ -18,9 +18,9 @@ int main(){
             else if (giris >= 50 && giris < 70)
                 orta++;
             else if (giris >= 70)
-                agir++;
+                agir++;               
         }
-        else
+        else if(giris < 0)
         {
             printf("LUTFEN POZITIF BIR DEGER GIRINIZ \n");
         }
