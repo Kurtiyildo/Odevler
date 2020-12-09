@@ -1,3 +1,4 @@
+//Bu bir deneme notudur.
 #include <stdio.h>
 int collatz(int s){
 int t=1;
